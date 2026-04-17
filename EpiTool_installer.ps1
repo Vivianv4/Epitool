@@ -3,7 +3,7 @@
 
 # Configuration
 $MILLENNIUM_INSTALL_URL = "https://steambrew.app/install.ps1"
-$EPITOOL_GITHUB_OWNER = "Kendo4"
+$EPITOOL_GITHUB_OWNER = "Vivi"
 $EPITOOL_GITHUB_REPO = "EpiTool"
 $EPITOOL_ASSET_NAME = "epitoolplugin.zip"
 
