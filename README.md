@@ -27,5 +27,8 @@ EpiTool is a Steam plugin built for the Millennium framework, providing tools fo
 
 
 
+any problem? add me on discord https://discord.gg/eWStThwn
+
+
 
 
